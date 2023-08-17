@@ -13,4 +13,4 @@ npx mocha test\suite\user.suite.js
 ```
 
 ## Result of The Test
-![image](https://github.com/mumtihf/Tugas_Pekanan4_API_Automation/assets/58902547/fc73e4ae-6b87-43ac-9c70-f649d8145da7)
+![image](https://github.com/mumtihf/Tugas_Pekanan4_API_Automation/assets/58902547/37b60701-1f7c-44c1-ac63-be3ab8e137ec)
