@@ -154,7 +154,7 @@ describe('Get Unit List', () => {
 })
 
 describe('Delete Unit', () => {
-    it('Succes Delete Unit', async () => {
+    it('Success Delete Unit', async () => {
         //Get Token
         const token = await getLoginToken()
 
@@ -167,7 +167,7 @@ describe('Delete Unit', () => {
         //Assertion
         expect((await response).status).to.equal(200)
     })
-    it('Succes Delete Unit', async () => {
+    it('Failed Delete Unit', async () => {
         //Get Token
         const token = await getLoginToken()
 
